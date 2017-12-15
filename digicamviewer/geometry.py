@@ -1,5 +1,5 @@
-from ctapipe.instrument.camera import CameraGeometry
-from ctapipe.instrument.camera import _find_neighbor_pixels
+from digicampipe.instrument.camera import CameraGeometry
+from digicampipe.instrument.camera import _find_neighbor_pixels
 import numpy as np
 import astropy.units as u
 
